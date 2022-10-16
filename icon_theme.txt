@@ -1,0 +1,15 @@
+<i class="fa-solid fa-house"></i>  				home
+<i class="fa-solid fa-user-group"></i> 			user
+<i class="fa-regular fa-flag"></i>				flag
+<i class="fa-solid fa-gamepad"></i>				game
+<i class="fa-solid fa-bell"></i>				bell
+<i class="fa-solid fa-ellipsis"></i>			menu
+background-body: #18191a
+background-header: #242526
+line_background: #393a3b
+<i class="fa-brands fa-facebook"></i>     facebook
+<i class="fa-solid fa-magnifying-glass"></i>  search
+<i class="fa-brands fa-facebook-messenger"></i>   mess
+<i class="fa-solid fa-user-group"></i>     user group
+<i class="fa-solid fa-clock-rotate-left"></i> hisstory
+<i class="fa-solid fa-chevron-down"></i>    down
